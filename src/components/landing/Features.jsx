@@ -41,7 +41,7 @@ const Features = () => {
           <h2 className="text-4xl md:text-5xl font-bold text-black dark:text-white mb-6 arabic-font">
             لماذا تختار
             <span>
-              {' '}متجر التيشرتات{' '}
+              {' '}Aura-X{' '}
             </span>
             ؟
           </h2>
