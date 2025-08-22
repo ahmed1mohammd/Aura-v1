@@ -25,10 +25,10 @@ const Hero = () => {
           <h1 className="text-4xl md:text-6xl font-bold text-black dark:text-white mb-4 leading-tight arabic-font">
             اكتشف
             <span>
-              {' '}متجر التيشرتات{' '}
+              {' '}Aura-X{' '}
             </span>
             <br />
-            <span className="text-3xl md:text-5xl">مجموعة التيشرتات المميزة</span>
+            <span className="text-3xl md:text-5xl">مجموعة الملابس المميزة</span>
           </h1>
           
           {/* Subtitle */}
