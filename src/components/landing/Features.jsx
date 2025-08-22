@@ -74,7 +74,7 @@ const Features = () => {
           <div className="bg-black dark:bg-white rounded-2xl p-10 text-white dark:text-black shadow-xl">
             <h3 className="text-3xl font-bold mb-4 arabic-font">جاهز لتجربة الفرق؟</h3>
             <p className="text-xl mb-8 opacity-90 arabic-font">
-              انضم إلى آلاف العملاء الراضين واكتشف عالم متجر التيشرتات
+               Aura-X انضم إلى آلاف العملاء الراضين واكتشف عالم  
             </p>
             <a href="/products" className="inline-block bg-white dark:bg-black text-black dark:text-white px-10 py-4 rounded-full font-semibold text-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 transition-transform arabic-font">
               ابدأ التسوق الآن
